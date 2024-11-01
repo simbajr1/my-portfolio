@@ -1,6 +1,6 @@
 // src/components/MyPortfolio.js
 import React, { useState } from 'react';
-import "./src/app.css"
+
 
 const MyPortfolio = () => {
   const [isOpen, setIsOpen] = useState(false);
