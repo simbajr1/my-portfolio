@@ -4,7 +4,7 @@ import { FaPhone, FaEnvelope, FaMapMarkerAlt, FaGlobe } from 'react-icons/fa';
 
 const Contact = () => {
   return (
-    <section  id="contact" className="bg-gray-200 text-gray-900 py-20 px-4 md:px-0">
+    <section data-aos="fade-up" data-aos-duration="1000" id="contact" className="bg-gray-200 text-gray-900 py-20 px-4 md:px-0">
       <div className="max-w-4xl mx-auto text-center space-y-4">
         <h2 className="text-4xl font-bold">Let's Talk</h2>
         <div className="flex flex-col items-center space-y-2 mt-8">

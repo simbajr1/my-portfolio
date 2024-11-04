@@ -4,7 +4,7 @@ import { FaCode, FaNetworkWired, FaPenNib } from 'react-icons/fa';
 
 const Services = () => {
   return (
-    <section  id="services" className="bg-purple-800 text-white py-20 px-4 md:px-0">
+    <section data-aos="fade-up" data-aos-duration="1000" id="services" className="bg-purple-800 text-white py-20 px-4 md:px-0">
       <div className="max-w-4xl mx-auto text-center space-y-8">
         <h2 className="text-4xl font-bold">Services</h2>
         <div className="flex flex-wrap justify-center gap-8">

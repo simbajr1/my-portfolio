@@ -3,7 +3,7 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <section  id="hero" className="hero-section bg-purple-900 text-white flex items-center justify-center h-screen relative">
+    <section data-aos="fade-up" data-aos-duration="1000" id="hero" className="hero-section bg-purple-900 text-white flex items-center justify-center h-screen relative">
       <div className="text-center space-y-4">
         <h1 className="text-4xl md:text-6xl font-bold">
           Hello, I am <span className="text-blue-500">Japheth Onyango</span>,
